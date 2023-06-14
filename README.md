@@ -13,7 +13,9 @@
 - ⛔ Some of my repos are on **private** mode! please message me to more information!
 
 
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ChocTitans&style=for-the-badge">
+</a>
 
 
 <h2 align="left">I Code with:</h2>
