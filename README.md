@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **boubnane.hamza9@gmail.com**
 
-- ⛔ Some of my repos are on **private** mode! please message me to more information!
+- ⛔ Some of my repos are on **private** mode! please message me for more information!
 
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
