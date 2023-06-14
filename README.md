@@ -122,7 +122,6 @@
 <div align="left">
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choctitans&show_icons=true&locale=en" alt="choctitans" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=choctitans&" alt="choctitans" />
   </p>
 
 <p></p>
