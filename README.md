@@ -75,7 +75,8 @@
 
 <div align="left">
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choctitans&show_icons=true&locale=en" alt="choctitans" />
+  &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choctitans&show_icons=true&locale=en&theme=radical" alt="choctitans" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choctitans&theme=radical"/>
   </p>
 
 <p></p>
