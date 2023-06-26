@@ -75,8 +75,9 @@
 
 <div align="left">
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choctitans&show_icons=true&locale=en&theme=radical" alt="choctitans" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choctitans&theme=radical"/>
+  &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=choctitans&hide_border=true&background=111111&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&ring=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+        
+
   </p>
 
 <p></p>
