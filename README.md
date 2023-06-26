@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **DevOps**, still discovering the iceberg.
+- 🌱 I’m a **DevOps** Engineer and still discovering the iceberg.
 
-- 💬 Ask me about **Anything!**
+- 💬 Ask me about **Anything!**, don't be shy.
 
 - 📫 How to reach me **boubnane.hamza9@gmail.com**
 
