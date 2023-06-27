@@ -12,7 +12,7 @@
  
  💬 Ask me about **Anything!**, don't be shy.
 
- 📫 How to reach me **boubnane.hamza9@gmail.com**
+ 📫 How to reach me **choctitanz@gmail.com**
 
  ⛔ Some of my repos are **private**, please message me for more information!
 
