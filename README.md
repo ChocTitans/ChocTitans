@@ -8,7 +8,7 @@
    <div align="center">
 
     
- 🌱 I’m a **DevOps!** Engineer and still discovering the iceberg.
+ 🌱 I’m a **DevOps** Engineer and still discovering the iceberg.
  
  💬 Ask me about **Anything!**, don't be shy.
 
