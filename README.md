@@ -10,11 +10,7 @@
     
  🌱 I’m a **DevOps** Engineer and still discovering the iceberg.
  
- 💬 Ask me about **Anything!**, don't be shy.
-
  📫 How to reach me **choctitanz@gmail.com**
-
- ⛔ Some of my repos are **private**, please message me for more information!
 
   </div>
 
