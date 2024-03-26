@@ -10,7 +10,7 @@
     
  🌱 I’m a **DevOps** Engineer and still discovering the iceberg.
  
- 📫 How to reach me ** hboubnane@deloitte.fr **
+ 📫 How to reach me **hboubnane@deloitte.fr**
 
   </div>
 
