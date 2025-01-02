@@ -39,6 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="52" alt="jenkins logo"  />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" width="52" alt="aws logo"  />
+  <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" height="40" width="52" alt="fluxcd logo"  />
 
 </div>
 
